@@ -3964,11 +3964,11 @@ ul.cs-list.cs-style2 li:not(:last-child) {
 
 /********modified css********/
 .cs-accent_btn {
-  background-image: linear-gradient(108.18deg, #e64d3d -12.02%, #e64d3d 60%);
+  background-image: linear-gradient(108.18deg, #00a5ff -12.02%, #00a5ff 60%);
 }
 
 .cs-gradient_color {
-  background: linear-gradient(108.18deg, #e64d3d -12.02%, #e64d3d 60%);
+  background: linear-gradient(108.18deg, #00a5ff -12.02%, #00a5ff 60%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
