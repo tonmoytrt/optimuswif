@@ -4004,3 +4004,8 @@ img.road_img {
   max-width: 100%;
   height: auto;
 }
+
+.gallery{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
